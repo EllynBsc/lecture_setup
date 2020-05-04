@@ -16,3 +16,5 @@ git commit -m "Why I did this change" (shortcut: gc -m "message")
 # 4.Push your exercise to kitt/github with good style
 git push origin master
 # => Make sure your git status is clean before you go on a new exercise or you leave your computer at night
+
+# We love Git & Github!

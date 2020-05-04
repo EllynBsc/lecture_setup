@@ -35,3 +35,5 @@ stt
 subl (for ubuntus)
 # View content of a file
 cat name_file.rb
+
+# We're navigating the command line like hackers..!
